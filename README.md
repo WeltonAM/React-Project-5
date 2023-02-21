@@ -8,7 +8,7 @@ Make sure to have all dependencies installed:
 
 Update the soft informations at .env file example
 
-After enter in the Frontend directory and execute: 
+After enter in the project directory and execute: 
 ```
 npm i
 ```
